@@ -1,0 +1,205 @@
+---
+format: 
+  pdf: 
+    documentclass: article
+    geometry:
+      - top=10mm
+      - left=15mm
+      - right=15mm
+      - bottom=5mm
+      - heightrounded
+    fontfamily: libertinus
+    colorlinks: true
+    fontsize: '16'
+    include-in-header: 
+      text: |
+        \usepackage{multicol}
+        \usepackage{lipsum}
+        \usepackage{hyperref}
+        \pagestyle{empty}
+        \setlength{\multicolsep}{2pt plus 1.0pt minus 0.75pt}% 50% of original values
+        \setlength{\columnsep}{3em}
+---
+
+<!-- TITLE -->
+
+```{=tex}
+\begin{huge}\begin{center}{\bf SHANNON DUNNIGAN KIMMEL}\end{center}\end{huge}
+```
+<!--HEADLINE -->
+
+<!-- ```{=tex} -->
+<!-- \begin{center}\emph{Creative, detail-oriented professional with a passion for data visualization and scientific inquiry.} -->
+<!-- \end{center} -->
+<!-- ``` -->
+<!-- CONTACT INFO -->
+
+```{=tex}
+\begin{center}shannon.d.kimmel@gmail.com ∙ 
+\href{https://github.com/skdunnigan}{Github} ∙ \href{https://www.linkedin.com/in/shannon-kimmel/}{LinkedIn} ∙
+\href{https://www.researchgate.net/profile/Shannon-Dunnigan}{ResearchGate}
+\end{center}
+\vspace{0.2cm}
+```
+<!-- SUMMARY -->
+
+Environmental researcher with 7+ years experience managing a long-term monitoring program with reporting staff. Experience working with large datasets, data management, building interactive datavisualizations and websites through R Markdown and Quarto, data analysis, and reporting. Areas of expertise include R programming with tidyverse, environmental data management/evaluation, coastal habitat ecology, coastal fisheries, and higher education.
+
+<!-- EDUCATION: 1ST BULLET -->
+
+```{=tex}
+\begin{large}
+  {\bf EDUCATION}
+  \vspace{3pt}
+  \hrule
+  \begin{multicols}{2}
+    \begin{flushleft}{\bf University of North Florida}\end{flushleft}
+    \begin{flushright}Jacksonville, FL\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}Master of Science: Biology\end{flushleft}
+  \end{multicols}
+  \vspace{-0.25cm}
+\end{large}
+```
+\vspace{0.2cm}
+
+<!-- EDUCATION: 2ND BULLET -->
+
+```{=tex}
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}{\bf Florida State University}\end{flushleft}
+    \begin{flushright}Tallahassee, FL\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}Bachelor of Science: Biological Science\end{flushleft}
+  \end{multicols}
+  \vspace{-0.25cm}
+  
+\end{large}
+\vspace{3pt}
+```
+<!-- SKILLS -->
+
+```{=tex}
+\begin{large}{\bf SKILLS}
+  \vspace{3pt}
+  \hrule
+\end{large}
+\vspace{-0.16cm}
+```
+**Languages and Tools** - R, Git, PRIMER-e, `tidyverse`, Adobe InDesign, Microsoft Office\
+**Industry Knowledge** - Data visualization, data analysis, environmental science, environmental monitoring, ecology, fisheries, time management, research, higher education, field work and coordination\
+**Interpersonal Skills** - Team coordination, leadership, public speaking, communication, project management
+
+<!-- EXPERIENCE : 1ST BULLET-->
+
+```{=tex}
+\begin{large}{\bf EXPERIENCE}
+  \vspace{3pt}
+  \hrule
+  \begin{multicols}{2}
+    \begin{flushleft}{\bf{GTM Research Reserve}}\end{flushleft}
+    \begin{flushright}Apr 2017-\textit{Present}\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{System-Wide Monitoring Program Manager}\end{flushleft}
+    \begin{flushright}Ponte Vedra Beach, FL\end{flushright}\end
+  {multicols}
+\end{large}
+\vspace{-0.16cm}
+```
+Position contracted through the University of North Florida as Coordinator of Research Program Services.
+
+While in this position:
+
+-   created and maintained the [GTMNERR GitHub organization](https://github.com/gtmnerr);
+-   developed workflows with GitHub for report writing within team;
+-   led and developed 5 workshops on R programming and tidyverse for environmental scientists, one of which was at an international conference.
+-   served as Data Manager on a [NERRS Science Collaborative Project](https://nerrssciencecollaborative.org/project/Dix20) with 13 participating reserves;
+-   helped to bring a part-time technician position up to full-time within the program;
+-   designed [GTM Research Reserve 20-Year Anniversary Guide](docs/GTM-Guide-2020.pdf);
+-   served as a "technical expert" within the National Estuarine Research Reserve System;
+
+Duties include:
+
+-   **creating dynamic reports using R (RMarkdown, Quarto, and tidyverse) for dissemination**;
+-   managing two direct staff members as well as regular interns and volunteers;
+-   deploying and maintaining long-term monitoring equipment and infrastructure for water quality and emergent vegetation;
+-   maintaining boats and trucks for field work;
+-   trailering and launching boats;
+-   performing rigorous quality assurance and quality control for collected data;
+-   coordinating and performing monthly water sample collection for nutrient analyses;
+-   assisting other staff and researchers with reserve projects.
+
+\vspace{7pt}
+
+<!-- EXPERIENCE : 2ND BULLET -->
+
+```{=tex}
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}{\bf{University of North Florida}}\end{flushleft}
+    \begin{flushright}Jan 2016-Dec 2021\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{Adjunct Instructor, Department of Biology}\end
+    {flushleft}\begin{flushright}Jacksonville, FL\end
+    {flushright}
+  \end{multicols}
+\end{large}
+\vspace{-0.16cm}
+```
+Taught laboratory sections of Principles of Biology (non-major biology), General Biology 1, General Biology 2, Ichthyology, and Advanced Ichthyology (graduate)
+
+\vspace{7pt}
+
+<!-- EXPERIENCE : 3RD BULLET -->
+
+```{=tex}
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}{\bf{Florida Department of Environmental Protection}}\end{flushleft}
+    \begin{flushright}Nov 2015-Apr 2016\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{Environmental Scientist I}\end{flushleft}
+    \begin{flushright}Ponte Vedra Beach, FL\end{flushright}
+  \end{multicols}
+\end{large}
+\vspace{-0.16cm}
+```
+Served as the Oyster Condition Assessment Field Technician with the Northeast Florida Aquatic Preserves for an oyster monitoring project in northeast Florida. Duties included:
+
+-   scheduling and logistics for sampling intertidal oyster reefs in northeast Florida from the St. Mary's River to the south Matanzas River (covering Nassau, Duval, St. Johns, and Flagler counties);
+-   lead and train volunteers on oyster reef sampling methods
+-   data entry, verification, and analysis for reporting;
+-   boating and trailering.
+
+\vspace{7pt}
+
+<!-- SYNERGISTIC ACTIVITIES : 1ST BULLET -->
+
+```{=tex}
+\begin{large}{\bf SYNERGISTIC ACTIVITIES}
+  \vspace{3pt}
+  \hrule
+\end{large}
+\vspace{-0.16cm}
+```
+-   **Administrator, GTMNERR GitHub Organization**
+-   **Data Manager, NERRS Science Collaborative Catalyst Project: "Refining Techniques for High- Frequency Monitoring of Chlorophyll in the NERRS", 2020-2022**
+-   **Board Member, Program Chair, Southeastern Estuarine Research Society 2020-2022**
+-   Formal Student Mentoring, Internship Program GTMNERR
+-   Member, Oyster and Water Quality Task Force of the GTM
+-   Member, State of the Reserve Planning Committee, GTMNERR 2018-2019
+-   Past Member, Student Promotions Committee, Southeastern Estuarine Research Society
+-   Board Member, Student Representative, Southeastern Estuarine Research Society 2015-2017
+
+\vspace{7pt}
