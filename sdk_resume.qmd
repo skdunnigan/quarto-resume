@@ -29,9 +29,13 @@ format:
 <!--HEADLINE -->
 
 <!-- ```{=tex} -->
+
 <!-- \begin{center}\emph{Creative, detail-oriented professional with a passion for data visualization and scientific inquiry.} -->
+
 <!-- \end{center} -->
+
 <!-- ``` -->
+
 <!-- CONTACT INFO -->
 
 ```{=tex}
@@ -122,7 +126,7 @@ While in this position:
 -   led and developed 5 workshops on R programming and tidyverse for environmental scientists, one of which was at an international conference.
 -   served as Data Manager on a [NERRS Science Collaborative Project](https://nerrssciencecollaborative.org/project/Dix20) with 13 participating reserves;
 -   helped to bring a part-time technician position up to full-time within the program;
--   designed [GTM Research Reserve 20-Year Anniversary Guide](docs/GTM-Guide-2020.pdf);
+-   designed [GTM Research Reserve 20-Year Anniversary Guide](https://github.com/skdunnigan/quarto-resume/blob/b66696c59540717ccc8c5219921b5a885c5af50b/docs/GTM-Guide-2020.pdf);
 -   served as a "technical expert" within the National Estuarine Research Reserve System;
 
 Duties include:
