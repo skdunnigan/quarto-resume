@@ -170,7 +170,6 @@ Served as the Oyster Condition Assessment Field Technician with the Northeast Fl
 \end{large}
 \vspace{0.16cm}
 ```
-
 ::: {#refs}
 :::
 
@@ -190,6 +189,7 @@ Served as the Oyster Condition Assessment Field Technician with the Northeast Fl
     \begin{flushleft}Master of Science: Biology\end{flushleft}
   \end{multicols}
   \vspace{-0.25cm}
+  \textit{Thesis: Habitat Value of Restored Intertidal Shoreline for Fish and Macrobenthic Communities in Northeast Florida.}
 \end{large}
 ```
 \vspace{0.2cm}
