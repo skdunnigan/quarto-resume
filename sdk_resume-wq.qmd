@@ -21,8 +21,9 @@ format:
         \setlength{\multicolsep}{2pt plus 1.0pt minus 0.75pt}% 50% of original values
         \setlength{\columnsep}{3em}
 bibliography: references.bib
+csl: estuaries-and-coasts.csl
 nocite: |
-    @brown, @dunnigan2023, @schafer2022, @dix2019, @dunnigan2018, @dunnigan2017a, @dunnigan2017b
+    @brown, @dunnigan2023, @schafer2022, @dunnigan2022, @dix2019, @dunnigan2018, @dunnigan2017a, @dunnigan2017b
 ---
 
 <!-- TITLE -->
@@ -87,17 +88,17 @@ Environmental researcher with 7+ years experience managing a long-term water qua
 Position contracted through the University of North Florida as Coordinator of Research Program Services.
 
 -   managed staff and coordinated with external researchers and volunteers;
--   **coordinated fieldwork for water quality research**
+-   **coordinated fieldwork for water quality research;**
 -   **served as Data Manager on a [NERRS Science Collaborative Project](https://nerrssciencecollaborative.org/project/Dix20) with 13 participating reserves;**
--   **trailered and operated boats up to 30ft**
--   **deployed and maintained long-term monitoring equipment and infrastructure for water quality and emergent vegetation**
+-   **trailered and operated boats up to 30ft;**
+-   **deployed and maintained long-term monitoring equipment and infrastructure for water quality and emergent vegetation;**
 -   served as a "technical expert" within the National Estuarine Research Reserve System;
--   **co-authored two scientific papers, several internal water quality reports,** and designed [GTM Research Reserve 20-Year Anniversary Guide](https://github.com/skdunnigan/quarto-resume/blob/b66696c59540717ccc8c5219921b5a885c5af50b/docs/GTM-Guide-2020.pdf){style="font-size: 11pt;"};
+-   **co-authored two scientific papers, several internal water quality reports,** and designed the [GTM Research Reserve 20-Year Anniversary Guide](https://github.com/skdunnigan/quarto-resume/blob/b66696c59540717ccc8c5219921b5a885c5af50b/docs/GTM-Guide-2020.pdf){style="font-size: 11pt;"};
+-   performed rigorous quality assurance and quality control for water quality data;
 -   created dynamic reports using R (RMarkdown, Quarto, and tidyverse) for dissemination;
 -   created and maintained the [GTMNERR GitHub organization](https://github.com/gtmnerr);
 -   developed workflows with GitHub for report writing within team;
--   **led and developed five workshops on R programming and tidyverse for environmental scientists, one of which was at an international conference**
--   performed rigorous quality assurance and quality control for water quality data
+-   **led and developed five workshops on R programming and tidyverse for environmental scientists, one of which was at an international conference.**
 
 \vspace{7pt}
 
@@ -161,10 +162,10 @@ Served as the Oyster Condition Assessment Field Technician with the Northeast Fl
 -   FDEP CPR/AED and First Aid
 -   Professional Association of Diving Instructors (PADI) Divemaster
 
-<!-- PUBLICATIONS AND PRESENTATIONS -->
+<!-- RELEVANT PUBLICATIONS AND PRESENTATIONS -->
 
 ```{=tex}
-\begin{large}{\bf PUBLICATIONS AND PRESENTATIONS}
+\begin{large}{\bf RELEVANT PUBLICATIONS AND PRESENTATIONS}
   \vspace{3pt}
   \hrule
 \end{large}
