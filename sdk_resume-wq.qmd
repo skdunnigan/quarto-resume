@@ -1,0 +1,233 @@
+---
+format: 
+  pdf: 
+    documentclass: article
+    geometry:
+      - top=10mm
+      - left=15mm
+      - right=15mm
+      - bottom=5mm
+      - heightrounded
+    fontfamily: libertinus
+    colorlinks: true
+    fontsize: '16'
+    bibliography: references.bib
+    include-in-header: 
+      text: |
+        \usepackage{multicol}
+        \usepackage{lipsum}
+        \usepackage{hyperref}
+        \pagestyle{empty}
+        \setlength{\multicolsep}{2pt plus 1.0pt minus 0.75pt}% 50% of original values
+        \setlength{\columnsep}{3em}
+bibliography: references.bib
+nocite: |
+    @brown, @dunnigan2023, @schafer2022, @dix2019, @dunnigan2018, @dunnigan2017a, @dunnigan2017b
+---
+
+<!-- TITLE -->
+
+```{=tex}
+\begin{huge}\begin{center}{\bf SHANNON DUNNIGAN KIMMEL}\end{center}\end{huge}
+```
+<!--HEADLINE -->
+
+<!-- ```{=tex} -->
+
+<!-- \begin{center}\emph{Creative, detail-oriented professional with a passion for data visualization and scientific inquiry.} -->
+
+<!-- \end{center} -->
+
+<!-- ``` -->
+
+<!-- CONTACT INFO -->
+
+```{=tex}
+\begin{center}shannon.d.kimmel@gmail.com ∙ 
+\href{https://github.com/skdunnigan}{Github} ∙ \href{https://www.linkedin.com/in/shannon-kimmel/}{LinkedIn} ∙
+\href{https://www.researchgate.net/profile/Shannon-Dunnigan}{ResearchGate}
+\end{center}
+\vspace{0.2cm}
+```
+<!-- SUMMARY -->
+
+Environmental researcher with 7+ years experience managing a long-term water quality monitoring program with reporting staff. Experience with data management, coordinating field teams, building interactive data visualizations, reports and websites through R Markdown and Quarto. Areas of expertise include environmental monitoring, data management, R programming with tidyverse, coastal habitat ecology, and higher education.
+
+<!-- SKILLS -->
+
+```{=tex}
+\begin{large}{\bf SKILLS}
+  \vspace{3pt}
+  \hrule
+\end{large}
+\vspace{-0.16cm}
+```
+**Languages and Tools** - R, Git, PRIMER-e, `tidyverse`, Adobe InDesign\
+**Industry Knowledge** - Data visualization, trailering and operating boats, data analysis, environmental monitoring (including continuous monitoring stations), ecology, fisheries, time management, research, higher education, field work and coordination\
+**Interpersonal Skills** - Team coordination, leadership, public speaking, communication, project management
+
+<!-- EXPERIENCE : 1ST BULLET-->
+
+```{=tex}
+\begin{large}{\bf EXPERIENCE}
+  \vspace{3pt}
+  \hrule
+  \begin{multicols}{2}
+    \begin{flushleft}{\bf{GTM Research Reserve}}\end{flushleft}
+    \begin{flushright}Apr 2017-\textit{Present}\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{System-Wide Monitoring Program Manager}\end{flushleft}
+    \begin{flushright}Ponte Vedra Beach, FL\end{flushright}\end
+  {multicols}
+\end{large}
+\vspace{-0.16cm}
+```
+Position contracted through the University of North Florida as Coordinator of Research Program Services.
+
+-   managed staff and coordinated with external researchers and volunteers;
+-   **coordinated fieldwork for water quality research**
+-   **served as Data Manager on a [NERRS Science Collaborative Project](https://nerrssciencecollaborative.org/project/Dix20) with 13 participating reserves;**
+-   **trailered and operated boats up to 30ft**
+-   **deployed and maintained long-term monitoring equipment and infrastructure for water quality and emergent vegetation**
+-   served as a "technical expert" within the National Estuarine Research Reserve System;
+-   **co-authored two scientific papers, several internal water quality reports,** and designed [GTM Research Reserve 20-Year Anniversary Guide](https://github.com/skdunnigan/quarto-resume/blob/b66696c59540717ccc8c5219921b5a885c5af50b/docs/GTM-Guide-2020.pdf){style="font-size: 11pt;"};
+-   created dynamic reports using R (RMarkdown, Quarto, and tidyverse) for dissemination;
+-   created and maintained the [GTMNERR GitHub organization](https://github.com/gtmnerr);
+-   developed workflows with GitHub for report writing within team;
+-   **led and developed five workshops on R programming and tidyverse for environmental scientists, one of which was at an international conference**
+-   performed rigorous quality assurance and quality control for water quality data
+
+\vspace{7pt}
+
+<!-- EXPERIENCE : 2ND BULLET -->
+
+```{=tex}
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}{\bf{University of North Florida}}\end{flushleft}
+    \begin{flushright}Jan 2016-Dec 2021\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{Adjunct Instructor, Department of Biology}\end
+    {flushleft}\begin{flushright}Jacksonville, FL\end
+    {flushright}
+  \end{multicols}
+\end{large}
+\vspace{-0.16cm}
+```
+Taught laboratory sections of Principles of Biology (non-major biology), General Biology 1, General Biology 2, Ichthyology, and Advanced Ichthyology (graduate)
+
+\vspace{7pt}
+
+<!-- EXPERIENCE : 3RD BULLET -->
+
+```{=tex}
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}{\bf{Florida Department of Environmental Protection}}\end{flushleft}
+    \begin{flushright}Nov 2015-Apr 2016\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{Environmental Scientist I}\end{flushleft}
+    \begin{flushright}Ponte Vedra Beach, FL\end{flushright}
+  \end{multicols}
+\end{large}
+\vspace{-0.16cm}
+```
+Served as the Oyster Condition Assessment Field Technician with the Northeast Florida Aquatic Preserves for an oyster monitoring project in northeast Florida. Duties included:
+
+-   coordinated fieldwork for sampling intertidal oyster reefs in northeast Florida from the St. Mary's River to the south Matanzas River (covering Nassau, Duval, St. Johns, and Flagler counties);
+-   led and trained volunteers on oyster reef sampling methods;
+-   performed data entry, verification, and analysis for reporting;
+-   trailered and operated boats for fieldwork
+
+\vspace{7pt}
+
+<!-- CERTIFICATIONS -->
+
+```{=tex}
+\begin{large}{\bf CERTIFICATIONS}
+  \vspace{3pt}
+  \hrule
+\end{large}
+\vspace{-0.16cm}
+```
+-   Florida Department of Environmental Protection (FDEP) Boat Certification for vessels up to 30 ft
+-   FDEP ATV and UTV Operation
+-   FDEP CPR/AED and First Aid
+-   Professional Association of Diving Instructors (PADI) Divemaster
+
+<!-- PUBLICATIONS AND PRESENTATIONS -->
+
+```{=tex}
+\begin{large}{\bf PUBLICATIONS AND PRESENTATIONS}
+  \vspace{3pt}
+  \hrule
+\end{large}
+\vspace{0.16cm}
+```
+
+::: {#refs}
+:::
+
+<!-- EDUCATION: 1ST BULLET -->
+
+```{=tex}
+\begin{large}
+  {\bf EDUCATION}
+  \vspace{3pt}
+  \hrule
+  \begin{multicols}{2}
+    \begin{flushleft}{\bf University of North Florida}\end{flushleft}
+    \begin{flushright}Jacksonville, FL\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}Master of Science: Biology\end{flushleft}
+  \end{multicols}
+  \vspace{-0.25cm}
+\end{large}
+```
+\vspace{0.2cm}
+
+<!-- EDUCATION: 2ND BULLET -->
+
+```{=tex}
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}{\bf Florida State University}\end{flushleft}
+    \begin{flushright}Tallahassee, FL\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}Bachelor of Science: Biological Science\end{flushleft}
+  \end{multicols}
+  \vspace{-0.25cm}
+  
+\end{large}
+\vspace{3pt}
+```
+<!-- SYNERGISTIC ACTIVITIES : 1ST BULLET -->
+
+```{=tex}
+\begin{large}{\bf SYNERGISTIC ACTIVITIES}
+  \vspace{3pt}
+  \hrule
+\end{large}
+\vspace{-0.16cm}
+```
+-   **Administrator, GTMNERR GitHub Organization**
+-   **Data Manager, NERRS Science Collaborative Catalyst Project: "Refining Techniques for High- Frequency Monitoring of Chlorophyll in the NERRS", 2020-2022**
+-   **Board Member, Program Chair, Southeastern Estuarine Research Society 2020-2022**
+-   Formal Student Mentoring, Internship Program GTMNERR
+-   **Member, Oyster and Water Quality Task Force of the GTM**
+-   Past Member, Student Promotions Committee, Southeastern Estuarine Research Society
+-   Board Member, Student Representative, Southeastern Estuarine Research Society 2015-2017
+-   Member, Coastal and Estuarine Research Federation
+-   Member, Southeastern Estuarine Research Society
+
+\vspace{7pt}
