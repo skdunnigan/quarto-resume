@@ -52,7 +52,7 @@ nocite: |
 ```
 <!-- SUMMARY -->
 
-Environmental researcher with 7+ years experience managing a long-term water quality monitoring program with reporting staff. Experience with data management, coordinating field teams, building interactive data visualizations, reports and websites through R Markdown and Quarto. Areas of expertise include environmental monitoring, data management, R programming with tidyverse, coastal habitat ecology, and higher education.
+Environmental researcher with 7+ years experience managing a long-term water quality monitoring program with reporting staff. Experience with data management, coordinating field teams, building interactive data visualizations, reports and websites through R Markdown and Quarto. Areas of expertise include environmental monitoring, data management, R programming with tidyverse, coastal habitat ecology, and higher education instruction.
 
 <!-- SKILLS -->
 
@@ -88,14 +88,14 @@ Environmental researcher with 7+ years experience managing a long-term water qua
 Position contracted through the University of North Florida as Coordinator of Research Program Services.
 
 -   managed staff and coordinated with external researchers and volunteers;
+-   **deployed and maintained long-term monitoring equipment and infrastructure for water quality and emergent vegetation;**
 -   **coordinated fieldwork for water quality research;**
 -   **served as Data Manager on a [NERRS Science Collaborative Project](https://nerrssciencecollaborative.org/project/Dix20) with 13 participating reserves;**
--   **trailered and operated boats up to 30ft;**
--   **deployed and maintained long-term monitoring equipment and infrastructure for water quality and emergent vegetation;**
--   served as a "technical expert" within the National Estuarine Research Reserve System;
 -   **co-authored two scientific papers, several internal water quality reports,** and designed the [GTM Research Reserve 20-Year Anniversary Guide](https://github.com/skdunnigan/quarto-resume/blob/b66696c59540717ccc8c5219921b5a885c5af50b/docs/GTM-Guide-2020.pdf){style="font-size: 11pt;"};
+-   served as a "technical expert" within the National Estuarine Research Reserve System;
 -   performed rigorous quality assurance and quality control for water quality data;
 -   created dynamic reports using R (RMarkdown, Quarto, and tidyverse) for dissemination;
+-   **trailered and operated boats up to 30ft;**
 -   created and maintained the [GTMNERR GitHub organization](https://github.com/gtmnerr);
 -   developed workflows with GitHub for report writing within team;
 -   **led and developed five workshops on R programming and tidyverse for environmental scientists, one of which was at an international conference.**
@@ -222,7 +222,7 @@ Served as the Oyster Condition Assessment Field Technician with the Northeast Fl
 \vspace{-0.16cm}
 ```
 -   **Administrator, GTMNERR GitHub Organization**
--   **Data Manager, NERRS Science Collaborative Catalyst Project: "Refining Techniques for High- Frequency Monitoring of Chlorophyll in the NERRS", 2020-2022**
+-   **Data Manager, NERRS Science Collaborative Catalyst Project: "Refining Techniques for High-Frequency Monitoring of Chlorophyll in the NERRS", 2020-2022**
 -   **Board Member, Program Chair, Southeastern Estuarine Research Society 2020-2022**
 -   Formal Student Mentoring, Internship Program GTMNERR
 -   **Member, Oyster and Water Quality Task Force of the GTM**
