@@ -46,7 +46,8 @@ nocite: |
 ```{=tex}
 \begin{center}shannon.d.kimmel@gmail.com ∙ 
 \href{https://github.com/skdunnigan}{Github} ∙ \href{https://www.linkedin.com/in/shannon-kimmel/}{LinkedIn} ∙
-\href{https://www.researchgate.net/profile/Shannon-Dunnigan}{ResearchGate}
+\href{https://www.researchgate.net/profile/Shannon-Dunnigan}{ResearchGate} ∙
+\href{https://orcid.org/0009-0004-6404-7008}{ORCID}
 \end{center}
 \vspace{0.2cm}
 ```
