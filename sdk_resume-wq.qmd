@@ -23,7 +23,7 @@ format:
 bibliography: references.bib
 csl: estuaries-and-coasts.csl
 nocite: |
-    @brown, @dunnigan2023, @schafer2022, @dunnigan2022, @dix2019, @dunnigan2018, @dunnigan2017a, @dunnigan2017b
+    @brown, @dunnigan2024, @dunnigan2023, @schafer2022, @dunnigan2022, @dix2019, @dunnigan2018, @dunnigan2017a, @dunnigan2017b
 ---
 
 <!-- TITLE -->
@@ -53,7 +53,7 @@ nocite: |
 ```
 <!-- SUMMARY -->
 
-Environmental researcher with 7+ years experience managing a long-term water quality monitoring program with reporting staff. Experience with data management, coordinating field teams, building interactive data visualizations, reports and websites through R Markdown and Quarto. Areas of expertise include environmental monitoring, data management, R programming with tidyverse, coastal habitat ecology, and higher education instruction.
+Environmental researcher with 8+ years experience managing a long-term water quality monitoring program with reporting staff. Experience with data management, coordinating field teams, building interactive data visualizations, reports and websites through R Markdown and Quarto. Areas of expertise include environmental monitoring, data management, R programming with tidyverse, coastal habitat ecology, and higher education instruction.
 
 <!-- SKILLS -->
 
